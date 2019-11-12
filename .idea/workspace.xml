@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8653c78-b489-4e2c-b5a5-b812096946c1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d.py" afterDir="false" />
     </list>
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +17,13 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="c.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="c.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/c.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="d.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/d.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -38,6 +43,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/c.py" />
+        <option value="$PROJECT_DIR$/d.py" />
       </list>
     </option>
   </component>
@@ -144,6 +150,9 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/c.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
